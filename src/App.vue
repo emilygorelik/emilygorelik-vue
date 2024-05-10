@@ -3,5 +3,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <div class="flex p-8">
+    <p class="text-center w-fit m-auto">website coming soon</p>
+  </div>
 </template>

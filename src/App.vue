@@ -5,6 +5,6 @@ import Sidebar from "./components/Sidebar.vue";
 <template>
   <div class="app flex h-screen w-screen">
     <Sidebar />
-    <router-view class="flex h-full w-fit" />
+    <router-view class="h-full w-full" />
   </div>
 </template>

@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <div class="flex p-8">
-    <p class="m-auto w-fit text-center">website coming soon</p>
+  <div class="app h-screen w-screen">
+    <router-view class="flex h-full w-full" />
   </div>
 </template>

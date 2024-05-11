@@ -1,9 +1,11 @@
-<script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+<script lang="ts">
+export default {
+  name: "App",
+};
 </script>
 
 <template>
   <div class="flex p-8">
-    <p class="text-center w-fit m-auto">website coming soon</p>
+    <p class="m-auto w-fit text-center">website coming soon</p>
   </div>
 </template>

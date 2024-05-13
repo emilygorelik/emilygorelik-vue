@@ -1,7 +1,7 @@
 <template>
-  <div class="flex flex-col gap-4 p-8 text-lg text-accent">
+  <div class="flex flex-col gap-4 p-8 text-accent">
     <p class="text-3xl">Software Projects</p>
-    <p>
+    <p class="text-lg">
       From picking a college to picking a restaurant, why not make programs make
       the desisions that you can't figure out yourself? If I can make a program
       do it for me, I will! Take a look through my portfolio to find out exactly

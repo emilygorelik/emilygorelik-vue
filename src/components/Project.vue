@@ -1,9 +1,10 @@
 <template>
   <div>
-    <h2 class="mb-4 text-3xl">{{ title }}</h2>
+    <p class="mb-4 text-lg">{{ title }}</p>
     <div class="flex">
+      <!-- TODO: add project imgs -->
       <div class="mr-4 w-1/6 border-2">placeholder</div>
-      <div class="w-full text-lg text-accent">
+      <div class="w-full text-base">
         <slot name="content"></slot>
       </div>
     </div>

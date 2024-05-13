@@ -1,5 +1,5 @@
 <template>
-  <main class="flex flex-col gap-4 p-8 text-lg text-accent">
+  <div class="flex flex-col gap-4 p-8 text-lg text-accent">
     <p class="text-3xl">About Me</p>
     <img
       src="../assets/profile-prof.png"
@@ -25,5 +25,5 @@
       >
       tab to find out what I love to do!
     </p>
-  </main>
+  </div>
 </template>

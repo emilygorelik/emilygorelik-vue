@@ -7,6 +7,7 @@
       do it for me, I will! Take a look through my portfolio to find out exactly
       what I make computers do in my day-to-day life.
     </p>
+    <!-- TODO: add stride sync as project -->
     <Project
       title="Developing Quality of Life Features for the E-TRIALS Platform"
     >

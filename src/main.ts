@@ -7,6 +7,7 @@ import About from "./views/About.vue";
 import Software from "./views/Software.vue";
 import Experience from "./views/Experience.vue";
 import Hobbies from "./views/Hobbies.vue";
+import NotFound from "./views/NotFound.vue";
 
 const router = createRouter({
   history: createWebHistory(),
@@ -16,7 +17,7 @@ const router = createRouter({
     { path: "/software-projects", component: Software },
     { path: "/experience", component: Experience },
     { path: "/hobbies", component: Hobbies },
-    { path: "/:pathMatch(.*)", redirect: "/" }, //TODO: funny 404 err page
+    { path: "/:pathMatch(.*)", component: NotFound }, //TODO: funny 404 err page
   ],
 });
 

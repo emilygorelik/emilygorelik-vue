@@ -40,5 +40,6 @@
       was a truly amazing experience and I can't wait to see where else life
       will take me next!
     </p>
+    <!-- TODO: add maps -->
   </div>
 </template>

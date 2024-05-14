@@ -23,13 +23,13 @@ library.add(far, fab, fas);
       >
         <font-awesome-icon
           :icon="['fab', 'linkedin']"
-          class="aspect-square h-8 rounded p-1 text-secondary hover:bg-accent"
+          class="aspect-square h-6 rounded p-1 text-secondary hover:bg-accent"
         />
       </a>
       <a href="https://github.com/emilygorelik" target="_blank" title="Github">
         <font-awesome-icon
           :icon="['fab', 'github']"
-          class="aspect-square h-8 rounded-full p-1 text-secondary hover:bg-accent"
+          class="aspect-square h-6 rounded-full p-1 text-secondary hover:bg-accent"
         />
       </a>
       <a
@@ -39,7 +39,7 @@ library.add(far, fab, fas);
       >
         <font-awesome-icon
           :icon="['fas', 't']"
-          class="aspect-square h-8 rounded-full p-1 text-secondary hover:bg-accent"
+          class="aspect-square h-6 rounded-full p-1 text-secondary hover:bg-accent"
         />
       </a>
     </div>
